@@ -8,3 +8,5 @@ __pycache__/
 *.pyc
 # Ignore virtual environment directories
 venv/
+# Ignore visual code information
+.vscode/
